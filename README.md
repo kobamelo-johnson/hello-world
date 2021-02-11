@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/kobamelo-johnson/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   <head>
+      <meta charset="utf-8">
+      <title>...</title>
+   </head>
+	
+   <body>
+	
+      <header role="banner">
+         <h1>HTML5 Document Structure Example</h1>
+         <p>This page should be tried in safari, chrome or Mozila.</p>
+      </header>
+		
+      <nav>
+		
+         <ul>
+            <li><a href="#">HTML Tutorial</a></li>
+            <li><a href="#">CSS Tutorial</a></li>
+            <li><a href="#">JavaScript Tutorial</a></li>
+         </ul>
+			
+      </nav>
+		
+      <article>
+         <section>
+            <p>Once article can have multiple sections</p>
+         </section>
+      </article>
+		
+      <aside>
+         <p>This is aside part of the web page</p>
+      </aside>
+      
+      <figure align="right">
+        <img src="/html5/images/logo.png" alt="TutorialPoint" width="200" height="100">
+      </figure>
+      
+      <footer>
+         <p>Created by <a href="#">Tutorials Point</a></p>
+      </footer>
+		
+   </body>
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kobamelo-johnson/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
